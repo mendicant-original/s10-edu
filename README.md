@@ -3,12 +3,16 @@
 _written by: Shane Emmons_
 
 For this exercise you'll propose and implement a novel use of a Markov
-Chains. Markov Chains are sequences of items where ant item in the
+Chains. Markov Chains are sequences of items where any item in the
 sequence is dependent only on the item which comes before it. If you're
 not familiar with Markov Chains, please take some time to research them
 yourself. As usual,
 [the Wikipedia article](http://en.wikipedia.org/wiki/Markov_chain) is a
 good start.
+
+You don't have to limit your ideas to creating new sequences via some
+input. You can also use it for prediction or ranking of items in the
+sequence.
 
 ## Exercise Summary
 
