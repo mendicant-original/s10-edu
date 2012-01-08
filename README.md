@@ -20,7 +20,7 @@ sequence.
   - No two students should work on the same application of a Markov
     Chain.
   - You cannot write a simple text generator.
-  - If you need help coming up with something, ask us.
+  - If you get stuck, don't be afraid to ask for help.
 - Implement your idea.
 
 ## Submission Guidelines
